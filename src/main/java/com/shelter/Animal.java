@@ -1,4 +1,4 @@
-package com.shelter;
+package main.java.com.shelter;
 
 public abstract class Animal {
     private int order;
